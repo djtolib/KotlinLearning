@@ -7,4 +7,5 @@ fun main(args: Array<String>) {
         }
     }
     sayHello("Hello",3)
+    sayHello("Good morning",3)
 }
